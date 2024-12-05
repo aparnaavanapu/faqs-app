@@ -1,0 +1,32 @@
+.list-item-container{
+    list-style-type:none;
+    border:1px solid #d7dae6;
+    border-radius:12px;
+    padding:20px;
+    margin-bottom:20px;
+}
+.question-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.icon{
+    width:25px;
+    height:25px;
+    margin-left:10px;
+}
+hr{
+    width:100%;
+}
+.question-text{
+    color:#52606d;
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:500;
+}
+.answer-text{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size:17px;
+
+}
